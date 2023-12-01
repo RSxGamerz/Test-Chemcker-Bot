@@ -187,7 +187,7 @@ $cc10 = file_get_contents('https://oneclass.junaidrahman2.repl.co/auth.php?lista
 }
 else
  {
-   editMessage($chatId, "<b>You are not authorized to use me. Use me on @heckerdrops chat or get usage permit!</b>",$mes_id);
+   editMessage($chatId, "<b>You are not authorized to use me. Use me on @PremiumHackrs_Chat chat or get usage permit!</b>",$mes_id);
  }
  }
 
