@@ -21,8 +21,8 @@ $back2 = json_encode($rawback2);
 
       $channel = json_encode([
 'inline_keyboard' => [
-[['text' => "CHANNEL", 'url' => "https://t.me/heckerdrops"],
-['text' => "GROUP", 'url' => "https://t.me/heckerdropschat"],]
+[['text' => "CHANNEL", 'url' => "https://t.me/PremiumHackrs"],
+['text' => "GROUP", 'url' => "https://t.me/PREMIUMHACKS_CHAT"],]
 ]]);
 
 if ($cdata2 == "gates"){
